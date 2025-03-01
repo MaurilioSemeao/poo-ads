@@ -6,7 +6,7 @@ public class Aluno {
     public String nome; // tipo de uma classe
 
     public Aluno(){
-        this.nome = "Maurilio";
+        this.nome = "sem nome";
     }
 
     public Aluno(int numeroAluno, int idadeAluno, String nome, float p1, float p2){
