@@ -48,8 +48,9 @@ public class Produto {
         }
     }
 
-    public void mostra(){
+    public void mostrar(){
         this.print("Id " + this.id + " Descrição " + this.descricao +
                 "Qtde " + this.qtde + " Preço " + this.preco);
     }
+
 }
